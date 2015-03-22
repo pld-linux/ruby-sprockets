@@ -2,7 +2,7 @@
 Summary:	Rack-based asset packaging system
 Name:		ruby-%{pkgname}
 Version:	2.2.2
-Release:	2
+Release:	3
 License:	MIT
 Group:		Development/Libraries
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
